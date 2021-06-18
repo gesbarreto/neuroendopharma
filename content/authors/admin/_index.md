@@ -21,18 +21,20 @@ interests:
 - Hormones
 - Mitochondria
 - Lipid metabolism
+- Brain degeneration
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Post-Doctoral Fellow (Neurosciences)
+    institution: Stanford University School of Medicine (USA)
+    year: 2009-2011
+  - course: PhD in Biological Sciences (Neurosciences)
+    institution: Universidad Complutense Madrid (Spain)
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Health Sciences (Neurobiochemistry)
+    institution: Universidade Federal Rio Grande do  Norte (Brazil)
+    year: 2006
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
